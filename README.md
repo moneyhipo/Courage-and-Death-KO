@@ -46,5 +46,6 @@
 
 ## 알림
 
+- 한글패치 자체는 AI딸깍으로 만든거라, 성적표현이 거의 없음에도 불구하고,클로드가 조금만 나왔다하면 검열+태업을 시도해서, 몇몇 서비스씬은 어쩔 수 없이 기계번역하였음.
 - 이 패치는 개발사·배급사와 관계없는 팬 번역입니다. 게임 원문과 이미지의 권리는 원저작자에게 있습니다.
 - 한글 글꼴은 [Noto Sans KR](https://fonts.google.com/noto/specimen/Noto+Sans+KR)(SIL Open Font License 1.1)을 씁니다. 라이선스 전문은 [OFL.txt](OFL.txt)에 있습니다.
